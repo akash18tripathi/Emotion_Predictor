@@ -33,4 +33,4 @@ Thanks to Nikita Pande and Zainab Nomi : https://github.com/zainabnomi , for val
 
 ## Sample image of final result
 
-![sample_image](project.jpeg)
+![sample_image](project.jpg)
